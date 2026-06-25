@@ -70,6 +70,10 @@ Summarize results:
 !python scripts/summarize_sd2_colabfold.py
 ```
 
+## Full Prediction Outputs
+
+Full AlphaFold2 prediction outputs are available as a GitHub Release: v1.0.0
+
 ## Notes
 
 - Completed jobs are skipped automatically unless `--overwrite` is supplied.
